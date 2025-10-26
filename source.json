@@ -1,15 +1,15 @@
 {
-    "name":"Example Listing",
-    "id":"com.vrchat.example-listing",
+    "name":"VRCBand/Chillboio Studios VPM",
+    "id":"com.chillboiostudios.VPM",
     "url":"https://vrchat-community.github.io/template-package-listing/index.json",
     "author":{
-        "email":"developer@vrchat.com",
-        "name":"VRChat",
-        "url":"https://hello.vrchat.com"
+        "email":"webmaster@vrcband.com",
+        "name":"Chillboio Studios",
+        "url":"https://www.chillboiostudios.com"
     },
     "description":"Example listing of VRChat packages",
     "infoLink":{
-        "url":"http://github.com/vrchat-community/template-package-listing",
+        "url":"http://github.com/VRCband/VRCBand-VPM-Packages",
         "text":"View on GitHub"
     },
     "bannerUrl":"banner.png",
